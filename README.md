@@ -32,10 +32,10 @@ Jupyter Notebook
 ## Installation & Setup
 
 1. Clone the repository:
-   git clone https://github.com/your-username/brand-sentiment-analysis.git
+   git clone https://github.com/dishen41/Analyzing-Sentiment-Pattern
 
 2. Navigate into the folder:
-   cd brand-sentiment-analysis
+   cd brand- Analyzing-Sentiment-Pattern
 
 3. Install dependencies:
    pip install pandas matplotlib textblob
